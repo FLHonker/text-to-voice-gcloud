@@ -34,4 +34,9 @@
 3. 建议使用Linux系统，windows在安装Google Cloud SDK时需要配置全局VPN。
 4. 如果您的Google Cloud服务开通存在困难，可以联系我提供`gcloud_token.json`文件访问和使用我的API。
 
+## About
+
+后面搭个公开网站方便大家伙儿使用🤣🤣🤣~
+
+Contact: Frank<frankliu624@outlook.com>
 
