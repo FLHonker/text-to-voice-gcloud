@@ -1,0 +1,7 @@
+This is a example text file. The follow is a batch of raw text lines.
+
+helle everone, my name is Li Hua!
+
+helle everone, my name is frank liu!
+
+good morning! good morning! good morning!

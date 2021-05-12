@@ -1,0 +1,16 @@
+{
+  "audioConfig": {
+    "audioEncoding": "MP3",
+    "speakingRate": 1,
+    "pitch": -3,
+    "volumeGainDb": 6,
+    "sampleRateHertz": 24000
+  },
+  "input": {
+    "text": "replace with your text."
+  },
+  "voice": {
+    "languageCode": "en-US",
+    "name": "en-US-Wavenet-D"
+  }
+}
