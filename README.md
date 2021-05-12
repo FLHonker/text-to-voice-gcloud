@@ -38,5 +38,5 @@
 
 后面搭个公开网站方便大家伙儿使用🤣🤣🤣~
 
-Contact: Frank<frankliu624@outlook.com>
+Contact: Frank (frankliu624@outlook.com)
 
